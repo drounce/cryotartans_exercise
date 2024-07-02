@@ -10,3 +10,6 @@ Created on Mon Jul  1 23:19:51 2024
 print('hello batman')
 
 print('where\'s robin?')
+
+for i in range(10):
+    print("a" + "i" * i + "l")
